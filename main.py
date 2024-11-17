@@ -42,5 +42,5 @@ def get_multiplied_digits(number):
         return int(str_number)
 
 # Пример использования
-result = get_multiplied_digits(40203)
-print(result)  # Вывод: 24
+result = get_multiplied_digits(5602021)
+print(result)  # Вывод: 120
